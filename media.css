@@ -13,6 +13,10 @@
       .our>.left,.our>.right{
         width: 100%;
       }
+    .exploreNow {
+        width: 95%;
+        margin: 1rem;
+      }
 }
 @media only screen and (max-width: 430px) {
     .outterMost {
